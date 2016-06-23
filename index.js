@@ -62,7 +62,7 @@ class ViewPager extends Component {
 		if (this.props.loop) {
 			this.setPage(0);
 		} else {
-			this.props.onReachStart && this.props.onReachStart(this.viewPager);
+			this.props.onReachEnd && this.props.onReachEnd(this.viewPager);
 		}
 	}
 

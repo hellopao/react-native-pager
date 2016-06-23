@@ -1,6 +1,6 @@
 {
   "name": "react-native-pager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a pager component for react native",
   "main": "index.js",
   "scripts": {
