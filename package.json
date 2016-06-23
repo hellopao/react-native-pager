@@ -1,0 +1,30 @@
+{
+  "name": "react-native-pager",
+  "version": "0.0.1",
+  "description": "a pager component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "viewpager",
+    "react-native"
+  ],
+  "author": {
+    "name": "qinjia",
+    "email": "qinjia@outlook.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellopao/react-native-pager"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "ln": "^0.4.0",
+    "mini-moment": "0.0.7"
+  },
+  "homepage": "https://github.com/hellopao/react-native-pager",
+  "devDependencies": {
+  }
+}
